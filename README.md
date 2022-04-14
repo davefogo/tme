@@ -1,6 +1,6 @@
 # tme
 
-*Lightweight Node-based CLI testing framework that works as an alternative to Jest or Mocha.
+*A Light Node-based CLI testing framework that works as an alternative to Jest or Mocha.
 
 ## Installing
 
