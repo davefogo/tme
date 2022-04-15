@@ -8,6 +8,7 @@
 git clone https://github.com/davefogo/tme
 cd tme/
 npm install
+npm link
 ```
 
 ## Getting started
